@@ -12,6 +12,22 @@
 		EE729E741F3F8A1E004E8443 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE729E721F3F8A1E004E8443 /* Main.storyboard */; };
 		EE729E761F3F8A1F004E8443 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE729E751F3F8A1F004E8443 /* Assets.xcassets */; };
 		EE729E791F3F8A1F004E8443 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE729E771F3F8A1F004E8443 /* LaunchScreen.storyboard */; };
+		EE729E901F3F8A5C004E8443 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE729E801F3F8A5C004E8443 /* AppDelegate.swift */; };
+		EE729E911F3F8A5C004E8443 /* AppIcon.appiconset in Resources */ = {isa = PBXBuildFile; fileRef = EE729E811F3F8A5C004E8443 /* AppIcon.appiconset */; };
+		EE729E921F3F8A5C004E8443 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE729E821F3F8A5C004E8443 /* Assets.xcassets */; };
+		EE729E931F3F8A5C004E8443 /* Base.lproj in Resources */ = {isa = PBXBuildFile; fileRef = EE729E831F3F8A5C004E8443 /* Base.lproj */; };
+		EE729E941F3F8A5C004E8443 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE729E841F3F8A5C004E8443 /* FeedViewController.swift */; };
+		EE729E951F3F8A5C004E8443 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = EE729E851F3F8A5C004E8443 /* GoogleService-Info.plist */; };
+		EE729E961F3F8A5C004E8443 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = EE729E861F3F8A5C004E8443 /* Info.plist */; };
+		EE729E971F3F8A5C004E8443 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE729E871F3F8A5C004E8443 /* LoginViewController.swift */; };
+		EE729E981F3F8A5C004E8443 /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE729E881F3F8A5C004E8443 /* Post.swift */; };
+		EE729E991F3F8A5C004E8443 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE729E891F3F8A5C004E8443 /* PostCell.swift */; };
+		EE729E9A1F3F8A5C004E8443 /* SignupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE729E8A1F3F8A5C004E8443 /* SignupViewController.swift */; };
+		EE729E9B1F3F8A5C004E8443 /* UploadViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE729E8B1F3F8A5C004E8443 /* UploadViewController.swift */; };
+		EE729E9C1F3F8A5C004E8443 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE729E8C1F3F8A5C004E8443 /* User.swift */; };
+		EE729E9D1F3F8A5C004E8443 /* UserCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE729E8D1F3F8A5C004E8443 /* UserCell.swift */; };
+		EE729E9E1F3F8A5C004E8443 /* UsersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE729E8E1F3F8A5C004E8443 /* UsersViewController.swift */; };
+		EE729E9F1F3F8A5C004E8443 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE729E8F1F3F8A5C004E8443 /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +38,22 @@
 		EE729E751F3F8A1F004E8443 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EE729E781F3F8A1F004E8443 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EE729E7A1F3F8A1F004E8443 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EE729E801F3F8A5C004E8443 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = "../../InstagramLike-4/InstagramLike/AppDelegate.swift"; sourceTree = "<group>"; };
+		EE729E811F3F8A5C004E8443 /* AppIcon.appiconset */ = {isa = PBXFileReference; lastKnownFileType = folder; name = AppIcon.appiconset; path = "../../InstagramLike-4/InstagramLike/AppIcon.appiconset"; sourceTree = "<group>"; };
+		EE729E821F3F8A5C004E8443 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../InstagramLike-4/InstagramLike/Assets.xcassets"; sourceTree = "<group>"; };
+		EE729E831F3F8A5C004E8443 /* Base.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Base.lproj; path = "../../InstagramLike-4/InstagramLike/Base.lproj"; sourceTree = "<group>"; };
+		EE729E841F3F8A5C004E8443 /* FeedViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FeedViewController.swift; path = "../../InstagramLike-4/InstagramLike/FeedViewController.swift"; sourceTree = "<group>"; };
+		EE729E851F3F8A5C004E8443 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../InstagramLike-4/InstagramLike/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		EE729E861F3F8A5C004E8443 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = "../../InstagramLike-4/InstagramLike/Info.plist"; sourceTree = "<group>"; };
+		EE729E871F3F8A5C004E8443 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LoginViewController.swift; path = "../../InstagramLike-4/InstagramLike/LoginViewController.swift"; sourceTree = "<group>"; };
+		EE729E881F3F8A5C004E8443 /* Post.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Post.swift; path = "../../InstagramLike-4/InstagramLike/Post.swift"; sourceTree = "<group>"; };
+		EE729E891F3F8A5C004E8443 /* PostCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PostCell.swift; path = "../../InstagramLike-4/InstagramLike/PostCell.swift"; sourceTree = "<group>"; };
+		EE729E8A1F3F8A5C004E8443 /* SignupViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SignupViewController.swift; path = "../../InstagramLike-4/InstagramLike/SignupViewController.swift"; sourceTree = "<group>"; };
+		EE729E8B1F3F8A5C004E8443 /* UploadViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = UploadViewController.swift; path = "../../InstagramLike-4/InstagramLike/UploadViewController.swift"; sourceTree = "<group>"; };
+		EE729E8C1F3F8A5C004E8443 /* User.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = User.swift; path = "../../InstagramLike-4/InstagramLike/User.swift"; sourceTree = "<group>"; };
+		EE729E8D1F3F8A5C004E8443 /* UserCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = UserCell.swift; path = "../../InstagramLike-4/InstagramLike/UserCell.swift"; sourceTree = "<group>"; };
+		EE729E8E1F3F8A5C004E8443 /* UsersViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = UsersViewController.swift; path = "../../InstagramLike-4/InstagramLike/UsersViewController.swift"; sourceTree = "<group>"; };
+		EE729E8F1F3F8A5C004E8443 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ViewController.swift; path = "../../InstagramLike-4/InstagramLike/ViewController.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +91,22 @@
 				EE729E721F3F8A1E004E8443 /* Main.storyboard */,
 				EE729E751F3F8A1F004E8443 /* Assets.xcassets */,
 				EE729E771F3F8A1F004E8443 /* LaunchScreen.storyboard */,
+				EE729E801F3F8A5C004E8443 /* AppDelegate.swift */,
+				EE729E811F3F8A5C004E8443 /* AppIcon.appiconset */,
+				EE729E821F3F8A5C004E8443 /* Assets.xcassets */,
+				EE729E831F3F8A5C004E8443 /* Base.lproj */,
+				EE729E841F3F8A5C004E8443 /* FeedViewController.swift */,
+				EE729E851F3F8A5C004E8443 /* GoogleService-Info.plist */,
+				EE729E861F3F8A5C004E8443 /* Info.plist */,
+				EE729E871F3F8A5C004E8443 /* LoginViewController.swift */,
+				EE729E881F3F8A5C004E8443 /* Post.swift */,
+				EE729E891F3F8A5C004E8443 /* PostCell.swift */,
+				EE729E8A1F3F8A5C004E8443 /* SignupViewController.swift */,
+				EE729E8B1F3F8A5C004E8443 /* UploadViewController.swift */,
+				EE729E8C1F3F8A5C004E8443 /* User.swift */,
+				EE729E8D1F3F8A5C004E8443 /* UserCell.swift */,
+				EE729E8E1F3F8A5C004E8443 /* UsersViewController.swift */,
+				EE729E8F1F3F8A5C004E8443 /* ViewController.swift */,
 				EE729E7A1F3F8A1F004E8443 /* Info.plist */,
 			);
 			path = ThisOrThatFINAL;
@@ -124,9 +172,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE729E961F3F8A5C004E8443 /* Info.plist in Resources */,
+				EE729E911F3F8A5C004E8443 /* AppIcon.appiconset in Resources */,
 				EE729E791F3F8A1F004E8443 /* LaunchScreen.storyboard in Resources */,
 				EE729E761F3F8A1F004E8443 /* Assets.xcassets in Resources */,
 				EE729E741F3F8A1E004E8443 /* Main.storyboard in Resources */,
+				EE729E931F3F8A5C004E8443 /* Base.lproj in Resources */,
+				EE729E921F3F8A5C004E8443 /* Assets.xcassets in Resources */,
+				EE729E951F3F8A5C004E8443 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,7 +190,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE729E991F3F8A5C004E8443 /* PostCell.swift in Sources */,
+				EE729E9E1F3F8A5C004E8443 /* UsersViewController.swift in Sources */,
+				EE729E901F3F8A5C004E8443 /* AppDelegate.swift in Sources */,
+				EE729E9A1F3F8A5C004E8443 /* SignupViewController.swift in Sources */,
 				EE729E711F3F8A1E004E8443 /* ViewController.swift in Sources */,
+				EE729E9B1F3F8A5C004E8443 /* UploadViewController.swift in Sources */,
+				EE729E941F3F8A5C004E8443 /* FeedViewController.swift in Sources */,
+				EE729E981F3F8A5C004E8443 /* Post.swift in Sources */,
+				EE729E9F1F3F8A5C004E8443 /* ViewController.swift in Sources */,
+				EE729E971F3F8A5C004E8443 /* LoginViewController.swift in Sources */,
+				EE729E9C1F3F8A5C004E8443 /* User.swift in Sources */,
+				EE729E9D1F3F8A5C004E8443 /* UserCell.swift in Sources */,
 				EE729E6F1F3F8A1E004E8443 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
